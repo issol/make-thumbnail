@@ -136,7 +136,7 @@ const Main = () => {
           </InputWrapper>
           <InputDivider />
           <SelectContainer>
-            <SelectTitle>배경은 어떻게 하시겠어요?</SelectTitle>
+            <SelectTitle>배경은 어떻게 하시겠어요?!</SelectTitle>
             <ButtonWrapper>
               <SelectButton onClick={() => onClickRandomGradient()} type='button'>
                 랜덤 그래디언트
